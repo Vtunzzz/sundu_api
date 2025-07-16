@@ -1,0 +1,13 @@
+{
+  "name": "sunwin-api",
+  "version": "1.0.0",
+  "main": "sundu_api.js",
+  "scripts": {
+    "start": "node sundu_api.js"
+  },
+  "dependencies": {
+    "fastify": "^4.25.1",
+    "@fastify/cors": "^8.4.0",
+    "@fastify/websocket": "^9.0.2"
+  }
+}
